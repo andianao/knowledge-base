@@ -110,13 +110,9 @@ This repository connects to my other labs:
 * competitive-programming-lab
 * ai-automation-lab
 
-Those repositories contain:
+Those repositories contain: **Implementation**
 
-**Implementation**
-
-This repository contains:
-
-**Understanding**
+This repository contains: **Understanding**
 
 ---
 
