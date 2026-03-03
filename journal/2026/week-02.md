@@ -5,5 +5,10 @@
 
 ### Day 02: Monday, 02 March
 * Continued with **Level 1 - Getting Started**
-* Started [**Introduction to Offensive Pentesting**](https://tryhackme.com/module/introduction-to-offensive-pentesting?ref=blog.tryhackme.com)
+* Started [**Introduction to Offensive Pentesting**](https://tryhackme.com/module/introduction-to-offensive-pentesting?ref=blog.tryhackme.com) Module
 > Completed [**Pentesting Fundamentals**](https://tryhackme.com/room/pentestingfundamentals) Room
+
+### Day 03: Tuesday, 03 March
+* Continued with **Level 1 - Getting Started**
+> Completed **Topic Transition Recap** Room  
+> Completed [**Introduction to Offensive Pentesting**](https://tryhackme.com/module/introduction-to-offensive-pentesting?ref=blog.tryhackme.com) Module
