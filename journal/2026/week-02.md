@@ -17,3 +17,7 @@
 ### Day 04: Wednesday, 04 March
 > 🏆 *Completed [**OhSINT**](https://tryhackme.com/room/ohsint?ref=blog.tryhackme.com) Room*  
 > 🏆 *Completed **```Level 1 - Getting Started```***
+
+### Day 05: Thursday, 05 March
+* 🔥 Started **```Level 2 - Tooling```** on the [TryHackMe's Free Path](https://tryhackme.com/resources/blog/free_path)
+> 🔥 *Started [**Nmap Live Host Discovery**](https://tryhackme.com/room/nmap01?ref=blog.tryhackme.com) Room*
