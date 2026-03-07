@@ -20,4 +20,11 @@
 
 ### Day 05: Thursday, 05 March
 * 🔥 Started **```Level 2 - Tooling```** on the [TryHackMe's Free Path](https://tryhackme.com/resources/blog/free_path)
-> 🔥 *Started [**Nmap Live Host Discovery**](https://tryhackme.com/room/nmap01?ref=blog.tryhackme.com) Room*
+> 🔥 *Started [**Nmap Live Host Discovery**](https://tryhackme.com/room/nmap01?ref=blog.tryhackme.com) Room*  
+
+### Day 06: Friday, 05 March
+> *No Activity*
+
+### Day 07: Saturday, 06 March
+* 🔥 Continued **```Level 2 - Tooling```**  
+> 🔥 *Continued [**Nmap Live Host Discovery**](https://tryhackme.com/room/nmap01?ref=blog.tryhackme.com) Room*
