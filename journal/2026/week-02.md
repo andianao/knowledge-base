@@ -22,9 +22,9 @@
 * 🔥 Started **```Level 2 - Tooling```** on the [TryHackMe's Free Path](https://tryhackme.com/resources/blog/free_path)
 > 🔥 *Started [**Nmap Live Host Discovery**](https://tryhackme.com/room/nmap01?ref=blog.tryhackme.com) Room*  
 
-### Day 06: Friday, 05 March
+### Day 06: Friday, 06 March
 > *No Activity*
 
-### Day 07: Saturday, 06 March
+### Day 07: Saturday, 07 March
 * 🔥 Continued **```Level 2 - Tooling```**  
 > 🔥 *Continued [**Nmap Live Host Discovery**](https://tryhackme.com/room/nmap01?ref=blog.tryhackme.com) Room*
