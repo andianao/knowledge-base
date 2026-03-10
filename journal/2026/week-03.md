@@ -6,3 +6,7 @@
 ### Day 02: Monday, 09 March
 * 🔥 Continued **```Level 2 - Tooling```**  
 > 🔥 *Continued [**Nmap Live Host Discovery**](https://tryhackme.com/room/nmap01?ref=blog.tryhackme.com) Room*
+
+### Day 03: Tuesday, 10 March
+* 🔥 Continued **```Level 2 - Tooling```**  
+> 🔥 *Finished [**Nmap Live Host Discovery**](https://tryhackme.com/room/nmap01?ref=blog.tryhackme.com) Room*
