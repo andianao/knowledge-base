@@ -1,11 +1,11 @@
 ## Week 03
 ### Day 01: Sunday, 08 March
 * 🔥 Continued **```Level 2 - Tooling```**  
-> 🔥 *Continued [**Nmap Live Host Discovery**](https://tryhackme.com/room/nmap01?ref=blog.tryhackme.com) Room*
+> *Continued [**Nmap Live Host Discovery**](https://tryhackme.com/room/nmap01?ref=blog.tryhackme.com) Room*
 
 ### Day 02: Monday, 09 March
 * 🔥 Continued **```Level 2 - Tooling```**  
-> 🔥 *Continued [**Nmap Live Host Discovery**](https://tryhackme.com/room/nmap01?ref=blog.tryhackme.com) Room*
+> *Continued [**Nmap Live Host Discovery**](https://tryhackme.com/room/nmap01?ref=blog.tryhackme.com) Room*
 
 ### Day 03: Tuesday, 10 March
 * 🔥 Continued **```Level 2 - Tooling```**  
@@ -13,4 +13,8 @@
 
 ### Day 04: Wednesday, 11 March
 * 🔥 Continued **```Level 2 - Tooling```**
-* Started Hydra
+> 🔥 *Started [Hydra](https://tryhackme.com/room/hydra?ref=blog.tryhackme.com) Room*
+
+### Day 05: Thursday, 12 March
+* 🔥 Continued **```Level 2 - Tooling```**  
+> *Finished [Hydra](https://tryhackme.com/room/hydra?ref=blog.tryhackme.com) Room*
