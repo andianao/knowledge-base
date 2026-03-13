@@ -18,3 +18,7 @@
 ### Day 05: Thursday, 12 March
 * 🚧 Continued **```Level 2 - Tooling```**  
 > 🏆 *Finished [Hydra](https://tryhackme.com/room/hydra?ref=blog.tryhackme.com) Room*
+
+### Day 06: Friday, 13 March
+* 🚧 Continued **```Level 2 - Tooling```** 
+> 🔥 *Started [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc?ref=blog.tryhackme.com) Room*
