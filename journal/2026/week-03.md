@@ -22,3 +22,7 @@
 ### Day 06: Friday, 13 March
 * 🚧 Continued **```Level 2 - Tooling```** 
 > 🔥 *Started [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc?ref=blog.tryhackme.com) Room*
+
+### Day 07: Saturday, 14 March
+* 🚧 Continued **```Level 2 - Tooling```** 
+>  *Continued [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc?ref=blog.tryhackme.com) Room*
