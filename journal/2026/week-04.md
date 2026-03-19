@@ -14,3 +14,7 @@
 ### Day 04: Wednesday, 18 March
 * 🚧 Continued **```Level 2 - Tooling```** 
 >  *Continued [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc?ref=blog.tryhackme.com) Room*
+
+### Day 05: Thursday, 19 March
+* 🚧 Continued **```Level 2 - Tooling```** 
+>  *Continued [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc?ref=blog.tryhackme.com) Room*
