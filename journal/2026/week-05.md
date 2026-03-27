@@ -18,3 +18,7 @@
 ### Day 05: Thursday, 26 March
 * 🚧 Continued **```Level 2 - Tooling```**  on the [TryHackMe's Free Path](https://tryhackme.com/resources/blog/free_path)
 > *Continued [**Introduction to OWASP ZAP**](https://tryhackme.com/room/learnowaspzap?ref=blog.tryhackme.com) Room* 
+
+### Day 06: Friday, 27 March
+* 🚧 Continued **```Level 2 - Tooling```**  on the [TryHackMe's Free Path](https://tryhackme.com/resources/blog/free_path)
+> *🏆 Finished [**Introduction to OWASP ZAP**](https://tryhackme.com/room/learnowaspzap?ref=blog.tryhackme.com) Room*
