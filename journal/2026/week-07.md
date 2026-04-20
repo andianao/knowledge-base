@@ -11,14 +11,11 @@
 ### Day 04: Wednesday, 08 April
 > OUT OF SERVICE - ***I Did Nothing At All***
 
-### Day 04: Thursday, 09 April
+### Day 05: Thursday, 09 April
 > OUT OF SERVICE - ***I Did Nothing At All***
 
-### Day 05: Friday, 10 April
+### Day 06: Friday, 10 April
 > OUT OF SERVICE - ***I Did Nothing At All***
 
-### Day 06: Saturday, 11 April
-> OUT OF SERVICE - ***I Did Nothing At All***
-
-### Day 07: Sunday, 12 April
+### Day 07: Saturday, 11 April
 > OUT OF SERVICE - ***I Did Nothing At All***
