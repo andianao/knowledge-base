@@ -20,5 +20,5 @@
 ### Day 06: Friday, 03 April
 > OUT OF SERVICE - ***I Did Nothing At All***
 
-### Day 07: Thursday, 04 April
+### Day 07: Saturday, 04 April
 > OUT OF SERVICE - ***I Did Nothing At All***
