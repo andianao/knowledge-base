@@ -7,4 +7,16 @@
 > *Continued [**Vulnversity**](https://tryhackme.com/room/vulnversity?ref=blog.tryhackme.com) Room*
 
 ### Day 03: Tuesday, 21 April
-> Learned about Burpsuite
+> Learned about Burpsuite from John Hammond YouTube Tutorial
+
+### Day 04: Wednesday, 22 April
+> OUT OF SERVICE - ***I Did Nothing At All***
+
+### Day 05: Thursday, 23 April
+> OUT OF SERVICE - ***I Did Nothing At All***
+
+### Day 06: Friday, 24 April
+> OUT OF SERVICE - ***I Did Nothing At All***
+
+### Day 07: Saturday, 25 April
+> OUT OF SERVICE - ***I Did Nothing At All***
